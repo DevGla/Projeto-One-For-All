@@ -81,8 +81,8 @@ VALUES
 INSERT INTO SpotifyClone.artistas (artista_id, artista)
 VALUES
   (1, 'Walter Phoenix'),
-  (2, 'Peter strong'),
-  (3, 'Lance day'),
+  (2, 'Peter Strong'),
+  (3, 'Lance Day'),
   (4, 'Freedie Shannon'),
   (5, 'Tyler Isle'),
   (6, 'Fog');
@@ -93,10 +93,10 @@ VALUES
   (2, 'Exuberant', 1, 1993),
   (3, 'Hallowed Steam', 2, 1995),
   (4, 'Incandescent', 3, 1998),
-  (5, 'Temporaty Culture', 4, 2001),
+  (5, 'Temporary Culture', 4, 2001),
   (6, 'Library of liberty', 4, 2003),
   (7, 'Chained Down', 5, 2007),
-  (8, 'Chainet of fools', 5, 2012),
+  (8, 'Cabinet of fools', 5, 2012),
   (9, 'No guarantees', 5, 2015),
   (10, 'Apparatus', 6, 2015);
 
@@ -205,7 +205,7 @@ VALUES
   (16, 8, 1),
   (17, 8, 5),
   (18, 9, 6),
-  (19, 9, 3),
+  (19, 9, 4),
   (20, 9, 3),
   (21, 10, 2),
   (22, 10, 6);
